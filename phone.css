@@ -1,0 +1,48 @@
+body{
+    /* background-color: rgb(233, 73, 15); */
+}
+.navbar{
+    flex-direction: column;
+
+}
+.midpart h2{
+    /* flex-direction: column; */
+    font-size: 20px;
+}
+.mid{
+    flex-direction: column;
+}
+.headz{
+    font-size: 20px;
+}
+.imgs{
+width: 40px;
+height: 40px;
+}
+.h2w{
+    font-size: 20px;
+}
+.navigation li a{
+    font-size: 12px;
+}
+.form input{
+    width: 250px;
+}
+.form textarea{
+    width: 250px;
+
+}
+.bb{
+    width: 250px;
+}
+.navbar::before {
+  height: 450px;
+  width: 800px;
+}
+.navbar::before{
+    /* flex-wrap: wrap; */
+}
+.end1::before{
+    height: 360px;
+    width: 1200px;
+}
